@@ -1,2 +1,2 @@
 # Project Euler Python Solutions
- python solutions for coding questions from leetcode & project euler
+ my solutions in python for coding questions from leetcode & project euler
